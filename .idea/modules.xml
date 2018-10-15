@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/optionals.exercises.iml" filepath="$PROJECT_DIR$/.idea/modules/optionals.exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/optionals.exercises_main.iml" filepath="$PROJECT_DIR$/.idea/modules/optionals.exercises_main.iml" group="optionals.exercises" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/optionals.exercises_test.iml" filepath="$PROJECT_DIR$/.idea/modules/optionals.exercises_test.iml" group="optionals.exercises" />
+    </modules>
+  </component>
+</project>
