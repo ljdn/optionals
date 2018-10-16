@@ -3,8 +3,9 @@ import java.util.Optional;
 
 public class Answers {
 
+    // Note: the different params, as well as what gets printed when you use orElse vs orElseGet
     public String getValue(Optional<String> optionalString) {
-//        return optionalString.orElse(getDefault());
+        // return optionalString.orElse(getDefault());
         return optionalString.orElseGet(this::getDefault);
     }
 

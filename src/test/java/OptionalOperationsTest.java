@@ -17,6 +17,9 @@ public class OptionalOperationsTest {
     public void setUp() {
         ops = new OptionalOperations();
     }
+    
+    // The first two tests can pass with either orElse or orElseGet, but pay attention to any differences in behavior...
+    // I was lazy so not all of these tests will pass (if the first is passing the third won't)
 
     @Test
     public void orElse_shouldGetDefaultIfOptionalIsNull() {
